@@ -67,7 +67,7 @@ section.about div.narrow p, section.product div.narrow p
 section.about img
 {
     width: 100%;
-    margin-bottom: 2%
+    margin-bottom: 7%
 }
 
 section.about div.img
@@ -76,7 +76,7 @@ section.about div.img
     height: 480px;
     background-size: cover;
     position: relative;
-    margin-bottom: 2%;
+    margin-bottom: 7%;
 }
 
 section.about div.img p
